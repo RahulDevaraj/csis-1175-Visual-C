@@ -1,0 +1,7 @@
+D:\Academics\Semester 1\Introduction to Programming CSIS-1175\CSIS1175Demo12\CSIS1175Demo12\bin\Debug\CSIS1175Demo12.exe.config
+D:\Academics\Semester 1\Introduction to Programming CSIS-1175\CSIS1175Demo12\CSIS1175Demo12\bin\Debug\CSIS1175Demo12.exe
+D:\Academics\Semester 1\Introduction to Programming CSIS-1175\CSIS1175Demo12\CSIS1175Demo12\bin\Debug\CSIS1175Demo12.pdb
+D:\Academics\Semester 1\Introduction to Programming CSIS-1175\CSIS1175Demo12\CSIS1175Demo12\obj\Debug\CSIS1175Demo12.csproj.AssemblyReference.cache
+D:\Academics\Semester 1\Introduction to Programming CSIS-1175\CSIS1175Demo12\CSIS1175Demo12\obj\Debug\CSIS1175Demo12.csproj.CoreCompileInputs.cache
+D:\Academics\Semester 1\Introduction to Programming CSIS-1175\CSIS1175Demo12\CSIS1175Demo12\obj\Debug\CSIS1175Demo12.exe
+D:\Academics\Semester 1\Introduction to Programming CSIS-1175\CSIS1175Demo12\CSIS1175Demo12\obj\Debug\CSIS1175Demo12.pdb

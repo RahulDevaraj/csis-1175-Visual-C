@@ -1,0 +1,6 @@
+D:\Academics\Semester 1\Introduction to Programming CSIS-1175\LabEx01\LabEx01\bin\Debug\LabEx01.exe.config
+D:\Academics\Semester 1\Introduction to Programming CSIS-1175\LabEx01\LabEx01\bin\Debug\LabEx01.exe
+D:\Academics\Semester 1\Introduction to Programming CSIS-1175\LabEx01\LabEx01\bin\Debug\LabEx01.pdb
+D:\Academics\Semester 1\Introduction to Programming CSIS-1175\LabEx01\LabEx01\obj\Debug\LabEx01.csproj.CoreCompileInputs.cache
+D:\Academics\Semester 1\Introduction to Programming CSIS-1175\LabEx01\LabEx01\obj\Debug\LabEx01.exe
+D:\Academics\Semester 1\Introduction to Programming CSIS-1175\LabEx01\LabEx01\obj\Debug\LabEx01.pdb

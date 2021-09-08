@@ -1,0 +1,7 @@
+C:\Users\91854\Desktop\Q2\Q2\bin\Debug\Q2.exe.config
+C:\Users\91854\Desktop\Q2\Q2\bin\Debug\Q2.exe
+C:\Users\91854\Desktop\Q2\Q2\bin\Debug\Q2.pdb
+C:\Users\91854\Desktop\Q2\Q2\obj\Debug\Q2.csproj.AssemblyReference.cache
+C:\Users\91854\Desktop\Q2\Q2\obj\Debug\Q2.csproj.CoreCompileInputs.cache
+C:\Users\91854\Desktop\Q2\Q2\obj\Debug\Q2.exe
+C:\Users\91854\Desktop\Q2\Q2\obj\Debug\Q2.pdb

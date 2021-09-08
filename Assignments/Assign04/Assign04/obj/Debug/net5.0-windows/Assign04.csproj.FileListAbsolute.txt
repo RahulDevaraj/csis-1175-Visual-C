@@ -1,0 +1,36 @@
+C:\Users\91854\Desktop\Assign04\Assign04\bin\Debug\net5.0-windows\Assign04.exe
+C:\Users\91854\Desktop\Assign04\Assign04\bin\Debug\net5.0-windows\Assign04.deps.json
+C:\Users\91854\Desktop\Assign04\Assign04\bin\Debug\net5.0-windows\Assign04.runtimeconfig.json
+C:\Users\91854\Desktop\Assign04\Assign04\bin\Debug\net5.0-windows\Assign04.runtimeconfig.dev.json
+C:\Users\91854\Desktop\Assign04\Assign04\bin\Debug\net5.0-windows\Assign04.dll
+C:\Users\91854\Desktop\Assign04\Assign04\bin\Debug\net5.0-windows\ref\Assign04.dll
+C:\Users\91854\Desktop\Assign04\Assign04\bin\Debug\net5.0-windows\Assign04.pdb
+C:\Users\91854\Desktop\Assign04\Assign04\obj\Debug\net5.0-windows\Assign04.csproj.AssemblyReference.cache
+C:\Users\91854\Desktop\Assign04\Assign04\obj\Debug\net5.0-windows\Assign04.Form.resources
+C:\Users\91854\Desktop\Assign04\Assign04\obj\Debug\net5.0-windows\Assign04.csproj.GenerateResource.cache
+C:\Users\91854\Desktop\Assign04\Assign04\obj\Debug\net5.0-windows\Assign04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91854\Desktop\Assign04\Assign04\obj\Debug\net5.0-windows\Assign04.AssemblyInfoInputs.cache
+C:\Users\91854\Desktop\Assign04\Assign04\obj\Debug\net5.0-windows\Assign04.AssemblyInfo.cs
+C:\Users\91854\Desktop\Assign04\Assign04\obj\Debug\net5.0-windows\Assign04.csproj.CoreCompileInputs.cache
+C:\Users\91854\Desktop\Assign04\Assign04\obj\Debug\net5.0-windows\Assign04.dll
+C:\Users\91854\Desktop\Assign04\Assign04\obj\Debug\net5.0-windows\ref\Assign04.dll
+C:\Users\91854\Desktop\Assign04\Assign04\obj\Debug\net5.0-windows\Assign04.pdb
+C:\Users\91854\Desktop\Assign04\Assign04\obj\Debug\net5.0-windows\Assign04.genruntimeconfig.cache
+C:\Users\91854\Desktop\Assignments\1175 Assignments\Assignment 4 Submitted One\Assign04\Assign04\bin\Debug\net5.0-windows\Assign04.exe
+C:\Users\91854\Desktop\Assignments\1175 Assignments\Assignment 4 Submitted One\Assign04\Assign04\bin\Debug\net5.0-windows\Assign04.deps.json
+C:\Users\91854\Desktop\Assignments\1175 Assignments\Assignment 4 Submitted One\Assign04\Assign04\bin\Debug\net5.0-windows\Assign04.runtimeconfig.json
+C:\Users\91854\Desktop\Assignments\1175 Assignments\Assignment 4 Submitted One\Assign04\Assign04\bin\Debug\net5.0-windows\Assign04.runtimeconfig.dev.json
+C:\Users\91854\Desktop\Assignments\1175 Assignments\Assignment 4 Submitted One\Assign04\Assign04\bin\Debug\net5.0-windows\Assign04.dll
+C:\Users\91854\Desktop\Assignments\1175 Assignments\Assignment 4 Submitted One\Assign04\Assign04\bin\Debug\net5.0-windows\ref\Assign04.dll
+C:\Users\91854\Desktop\Assignments\1175 Assignments\Assignment 4 Submitted One\Assign04\Assign04\bin\Debug\net5.0-windows\Assign04.pdb
+C:\Users\91854\Desktop\Assignments\1175 Assignments\Assignment 4 Submitted One\Assign04\Assign04\obj\Debug\net5.0-windows\Assign04.csproj.AssemblyReference.cache
+C:\Users\91854\Desktop\Assignments\1175 Assignments\Assignment 4 Submitted One\Assign04\Assign04\obj\Debug\net5.0-windows\Assign04.Form.resources
+C:\Users\91854\Desktop\Assignments\1175 Assignments\Assignment 4 Submitted One\Assign04\Assign04\obj\Debug\net5.0-windows\Assign04.csproj.GenerateResource.cache
+C:\Users\91854\Desktop\Assignments\1175 Assignments\Assignment 4 Submitted One\Assign04\Assign04\obj\Debug\net5.0-windows\Assign04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91854\Desktop\Assignments\1175 Assignments\Assignment 4 Submitted One\Assign04\Assign04\obj\Debug\net5.0-windows\Assign04.AssemblyInfoInputs.cache
+C:\Users\91854\Desktop\Assignments\1175 Assignments\Assignment 4 Submitted One\Assign04\Assign04\obj\Debug\net5.0-windows\Assign04.AssemblyInfo.cs
+C:\Users\91854\Desktop\Assignments\1175 Assignments\Assignment 4 Submitted One\Assign04\Assign04\obj\Debug\net5.0-windows\Assign04.csproj.CoreCompileInputs.cache
+C:\Users\91854\Desktop\Assignments\1175 Assignments\Assignment 4 Submitted One\Assign04\Assign04\obj\Debug\net5.0-windows\Assign04.dll
+C:\Users\91854\Desktop\Assignments\1175 Assignments\Assignment 4 Submitted One\Assign04\Assign04\obj\Debug\net5.0-windows\ref\Assign04.dll
+C:\Users\91854\Desktop\Assignments\1175 Assignments\Assignment 4 Submitted One\Assign04\Assign04\obj\Debug\net5.0-windows\Assign04.pdb
+C:\Users\91854\Desktop\Assignments\1175 Assignments\Assignment 4 Submitted One\Assign04\Assign04\obj\Debug\net5.0-windows\Assign04.genruntimeconfig.cache

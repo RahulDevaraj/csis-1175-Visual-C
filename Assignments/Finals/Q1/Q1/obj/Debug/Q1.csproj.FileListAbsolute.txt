@@ -1,0 +1,14 @@
+C:\Users\91854\Desktop\Q1\Q1\bin\Debug\Q1.exe.config
+C:\Users\91854\Desktop\Q1\Q1\bin\Debug\Q1.exe
+C:\Users\91854\Desktop\Q1\Q1\bin\Debug\Q1.pdb
+C:\Users\91854\Desktop\Q1\Q1\obj\Debug\Q1.csproj.AssemblyReference.cache
+C:\Users\91854\Desktop\Q1\Q1\obj\Debug\Q1.csproj.CoreCompileInputs.cache
+C:\Users\91854\Desktop\Q1\Q1\obj\Debug\Q1.exe
+C:\Users\91854\Desktop\Q1\Q1\obj\Debug\Q1.pdb
+D:\Academics\Semester 1\Assignments\1175\Finals\Q1\Q1\bin\Debug\Q1.exe.config
+D:\Academics\Semester 1\Assignments\1175\Finals\Q1\Q1\bin\Debug\Q1.exe
+D:\Academics\Semester 1\Assignments\1175\Finals\Q1\Q1\bin\Debug\Q1.pdb
+D:\Academics\Semester 1\Assignments\1175\Finals\Q1\Q1\obj\Debug\Q1.csproj.AssemblyReference.cache
+D:\Academics\Semester 1\Assignments\1175\Finals\Q1\Q1\obj\Debug\Q1.csproj.CoreCompileInputs.cache
+D:\Academics\Semester 1\Assignments\1175\Finals\Q1\Q1\obj\Debug\Q1.exe
+D:\Academics\Semester 1\Assignments\1175\Finals\Q1\Q1\obj\Debug\Q1.pdb

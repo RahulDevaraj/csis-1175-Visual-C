@@ -1,0 +1,7 @@
+C:\Users\91854\Desktop\MidTermExam1\MidTermExam1\bin\Debug\MidTermExam1.exe.config
+C:\Users\91854\Desktop\MidTermExam1\MidTermExam1\bin\Debug\MidTermExam1.exe
+C:\Users\91854\Desktop\MidTermExam1\MidTermExam1\bin\Debug\MidTermExam1.pdb
+C:\Users\91854\Desktop\MidTermExam1\MidTermExam1\obj\Debug\MidTermExam1.csproj.AssemblyReference.cache
+C:\Users\91854\Desktop\MidTermExam1\MidTermExam1\obj\Debug\MidTermExam1.csproj.CoreCompileInputs.cache
+C:\Users\91854\Desktop\MidTermExam1\MidTermExam1\obj\Debug\MidTermExam1.exe
+C:\Users\91854\Desktop\MidTermExam1\MidTermExam1\obj\Debug\MidTermExam1.pdb

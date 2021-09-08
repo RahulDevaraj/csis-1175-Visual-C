@@ -1,0 +1,7 @@
+D:\Academics\Semester 1\Introduction to Programming CSIS-1175\MockMid\MockMid\obj\Debug\MockMid.csproj.AssemblyReference.cache
+D:\Academics\Semester 1\Introduction to Programming CSIS-1175\MockMid\MockMid\obj\Debug\MockMid.csproj.CoreCompileInputs.cache
+D:\Academics\Semester 1\Introduction to Programming CSIS-1175\MockMid\MockMid\bin\Debug\MockMid.exe.config
+D:\Academics\Semester 1\Introduction to Programming CSIS-1175\MockMid\MockMid\bin\Debug\MockMid.exe
+D:\Academics\Semester 1\Introduction to Programming CSIS-1175\MockMid\MockMid\bin\Debug\MockMid.pdb
+D:\Academics\Semester 1\Introduction to Programming CSIS-1175\MockMid\MockMid\obj\Debug\MockMid.exe
+D:\Academics\Semester 1\Introduction to Programming CSIS-1175\MockMid\MockMid\obj\Debug\MockMid.pdb

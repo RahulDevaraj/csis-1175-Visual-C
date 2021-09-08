@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CSIS1175Demo11/1.0.0": {
+        "runtime": {
+          "CSIS1175Demo11.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSIS1175Demo11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

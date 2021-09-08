@@ -1,0 +1,7 @@
+D:\Academics\Semester 1\Introduction to Programming CSIS-1175\MidTerm Practice\MidTerm Practice\bin\Debug\MidTerm Practice.exe.config
+D:\Academics\Semester 1\Introduction to Programming CSIS-1175\MidTerm Practice\MidTerm Practice\bin\Debug\MidTerm Practice.exe
+D:\Academics\Semester 1\Introduction to Programming CSIS-1175\MidTerm Practice\MidTerm Practice\bin\Debug\MidTerm Practice.pdb
+D:\Academics\Semester 1\Introduction to Programming CSIS-1175\MidTerm Practice\MidTerm Practice\obj\Debug\MidTerm Practice.csproj.AssemblyReference.cache
+D:\Academics\Semester 1\Introduction to Programming CSIS-1175\MidTerm Practice\MidTerm Practice\obj\Debug\MidTerm Practice.csproj.CoreCompileInputs.cache
+D:\Academics\Semester 1\Introduction to Programming CSIS-1175\MidTerm Practice\MidTerm Practice\obj\Debug\MidTerm Practice.exe
+D:\Academics\Semester 1\Introduction to Programming CSIS-1175\MidTerm Practice\MidTerm Practice\obj\Debug\MidTerm Practice.pdb
